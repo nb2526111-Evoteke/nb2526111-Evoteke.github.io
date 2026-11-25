@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nb2526111-evoteke.github.io/sitemap.xml
